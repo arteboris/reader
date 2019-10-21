@@ -1,0 +1,18 @@
+.navigation {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: turquoise;
+  min-height: 100px;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation li {
+  margin-right: 100px;
+}

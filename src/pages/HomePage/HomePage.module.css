@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 100px;
+  text-transform: uppercase;
+  background-color: rgba(0, 0, 0, 0.056);
+  margin: 0;
+}
